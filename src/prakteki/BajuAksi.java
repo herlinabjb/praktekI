@@ -11,6 +11,9 @@ package prakteki;
  */
 public class BajuAksi {
     public static void main(String[] args) {
+        Baju Muslim = new Baju();
+        Baju Piama = new Baju();
+        Baju Kemeja = new Baju();
         
     }
     
