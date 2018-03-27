@@ -32,6 +32,10 @@ public class BajuAksi {
         Kemeja.Warna = "Putih";
         Kemeja.Model = "Polos";
         Kemeja.Jenis_kain = "Sutra";
+        
+        Muslim.cetakInfo();
+        
+        
     }
     
 }
