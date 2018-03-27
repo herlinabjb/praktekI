@@ -15,6 +15,23 @@ public class BajuAksi {
         Baju Piama = new Baju();
         Baju Kemeja = new Baju();
         
+        Muslim.Merk ="Dannis";
+        Muslim.Ukuran ="XL";
+        Muslim.Warna ="Pink";
+        Muslim.Model ="Gamis";
+        Muslim.Jenis_kain ="Katun";
+                
+        Piama.Merk = "Carter super";
+        Piama.Ukuran = "L";  
+        Piama.Warna = "Ungu";  
+        Piama.Model = "Karakter";  
+        Piama.Jenis_kain = "Sipon";
+        
+        Kemeja.Merk = "Logo";
+        Kemeja.Ukuran = "XXL";
+        Kemeja.Warna = "Putih";
+        Kemeja.Model = "Polos";
+        Kemeja.Jenis_kain = "Sutra";
     }
     
 }
